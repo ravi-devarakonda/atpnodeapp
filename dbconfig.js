@@ -1,5 +1,5 @@
 module.exports= {
-dbuser: 'nodeuser', 
-dbpassword: 'MyATPdatabase123#', 
-connectString: 'nodeappdb_high' 
+dbuser: 'ADMIN', 
+dbpassword: 'Welcome#12345', 
+connectString: 'dbx02_high' 
 }
